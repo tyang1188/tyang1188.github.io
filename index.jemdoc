@@ -1,0 +1,55 @@
+# jemdoc: menu{MENU}{index.html}
+== Tao Yang
+
+~~~
+{}{img_left}{yang.jpg}{Photo}{130}{160}
+
+*Tao Yang* 
+
+Assistant Professor\n 
+[/https://electrical.engineering.unt.edu/ Department of Electrical Engineering]\n
+[/https://www.unt.edu/ University of North Texas]\n
+Email:	Tao.Yang \[at\] unt \[dot\] edu\n
+
+~~~
+
+== Research Interests
+
+His research interests include distributed control and optimization with applications to power systems, cyber physical systems, networked control systems, and multi-agent systems. \n 
+
+== News 
+
+ - June 2019, together with Prof. Na Li at Harvard University, we are organizing a pre-conference workshop on ``Advanced Control and Optimization for Cyber-Physical Energy Systems'' at [http://ccta2019.ieeecss.org/ CCTA 2019]. Click [http://ccta2019.ieeecss.org/workshops/ *here*] for more information. Looking forward to seeing you.  
+ 
+ - June 2019, our paper ``[https://www.sciencedirect.com/science/article/pii/S1367578819300082/ *A survey of distributed optimization*]" to appear in Annual Reviews in Control.
+ 
+  - June 2019, our paper ``[https://ieeexplore.ieee.org/document/8731737/ *Distributed optimal coordination for distributed energy resources over time-varying directed networks*]" to appear in IEEE Transactions on Control of Network Systems.
+
+ - May 2019, Congratulations to Lisha Yao and Wen Du for successful master thesis defenses! 
+ 
+ - April 2019, our paper on computational convergence analysis for distributed optimization algorithms has been accepted by [http://uav.ece.nus.edu.sg/~icca19/index.html ICCA 2019]. Congratulations, Shengjun! 
+ 
+ - January 2019, Tao yang is a new member of the Conference Editorial Board (CEB) of IEEE Control System Society (CSS). 
+ 
+ - December 2018, together with Dr. Jianming Lian and Prof. Ye Yuan at HUST, we are organizing a Special Section on ``Control of complex networked systems (CCNS): Recent results and future trends''.
+   
+- July 2018, together with Prof. Jie Lu at Shanghai Tech, Prof. Wei Ren at UCR, and Prof. Angelia Nedich at ASU, we are organizing three invited sessions on distributed optimization for networked system at [https://cdc2018.ieeecss.org/ CDC 2018]. 
+
+- July 2018, our papers on distributed optimization with event-triggered mechanisms have been accepted by [https://cdc2018.ieeecss.org/ CDC 2018].  
+
+- June 2018, our paper on distributed finite-time optimization has won the Best Student Paper of the 14th IEEE International Conference on Control & Automation (ICCA). Congratulations, Lisha! 
+
+- June 2018, Tao Yang is a recipient of the 2018 Ralph E. Powe Junior Faculty Enhancement Award. [https://www.orau.org/university-partnerships/member-grant-programs/powe/index.html/ *Announcement*]. [https://news.unt.edu/unt-electrical-engineering-assistant-professor-earns-prestigious-powe-award/ *UNT News*].
+
+- April 2018, we are organizing a special issue on distributed optimization and learning for networked systems in the IET Control Theory and Applications. Click [https://digital-library.theiet.org/files/IET_CTA_CFP_DOLNS_SI.pdf/ *here*] for more information.  
+
+- April 2018, our paper on distributed finite-time optimization has been accepted by [http://uav.ece.nus.edu.sg/~icca18/anchorage.html/ ICCA 2018]. Congratulations, Lisha! 
+
+- February 2018, our paper on accelerated distributed energy management for microgrids has been accepted by PESGM 2018. Congratulations, Wen and Lisha!  
+
+- January 2018, together with Dr. Jianming Lian at PNNL, we are organizing a pre-conference workshop on ``Interdisciplinary Approaches for Control of Large-scale Complex Systems: Latest Development and Future Trends" at ACC 2018. Click [http://acc2018.a2c2.org/technical-program/workshops/ *here*] for more information. 
+
+- July 2017, together with Prof. Na Li at Harvard University and Prof. Karl H. Johansson at KTH, we are organizing an invited session on Control and Optimization for Emerging Power Networks and our paper on Cooperative Optimal Coordination for Distributed Energy Resources has been accepted by [http://cdc2017.ieeecss.org/ CDC 2017].
+
+- July 2017, our [https://ieeexplore.ieee.org/document/7961194/ paper] on distributed optimization over lossy communication networks with application to distributed energy resource coordination has appeared in IEEE Transactions on Smart Grid.  
+
