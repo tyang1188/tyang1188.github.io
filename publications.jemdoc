@@ -3,7 +3,8 @@
 
 == Preprint 
 
-. *T. Yang*, J. George, J. Qin, X. Yi and J. Wu, ``Distributed finite-time least squares solver for network linear equations'',  under review.
+. *T. Yang*, J. George, J. Qin, X. Yi and J. Wu, ``[https://arxiv.org/pdf/1810.00156.pdf *Distributed finite-time least squares solver for network linear equations*]'', under review.
+. X. Yi, S. Zhang, *T. Yang*, K.H. Johansson and T. Chai, ``[https://arxiv.org/pdf/1909.03282.pdf *Exponential Convergence for Distributed Smooth Optimization Under the Restricted Secant Inequality Condition*]'',  to be submitted.
 
 == Journal Papers 
 . *T. Yang*, X. Yi, J. Wu, Y. Yuan, D. Wu, Z. Meng, Y. Hong, H. Wang, Z. Lin and K.H. Johansson, 
@@ -39,13 +40,14 @@
 
 
 == Conference Papers
+. J. George, *T. Yang*, H Bai and P. Gurram ``Distributed stochastic gradient method for non-convex problems with applications in supervised learning", /Proceedings of the 58th Conference on Decision and Control/, Nice, France, 2019. To appear.
 . S. Zheng, X. Yi, J. George and *T. Yang*, ``Computational convergence analysis of distributed optimization
-algorithms for directed graphs'', /Proceedings of the 15th IEEE International Conference on Control and Automation/, Edinburgh, Scotland. To appear.
+algorithms for directed graphs'', /Proceedings of the 15th IEEE International Conference on Control and Automation/, Edinburgh, Scotland.
 . X. Yi, S. Zheng, *T. Yang*, J. Wu and K. H. Johansson, ``Distributed online convex optimization with long term coupled
-constraints'', /Proceedings of the 38th Chinese Control Conference/, Guangzhou. To appear.
-. X. Yi, *T. Yang*, J. Wu and K. H. Johansson, ``Event-triggered control for consensus of multi-agent systems with nonlinear output and directed topologies'', /Proceedings of the 38th Chinese Control Conference/, Guangzhou. To appear.
-. X. Shi, R. Zheng, *T. Yang*, Z. Lin and G. Yan, ``A distributed algorithm with event-triggered communication for resource allocation problem'', /Proceedings of 2019 American Control Conference/,  Philadelphia, PA. To appear. 
-. J. George and *T. Yang*, ``Fast distributed least-squares solver for linear time-varying equations'', /Proceedings of 2019 American Control Conference/,  Philadelphia, PA. To appear. 
+constraints'', /Proceedings of the 38th Chinese Control Conference/, Guangzhou.
+. X. Yi, *T. Yang*, J. Wu and K. H. Johansson, ``Event-triggered control for consensus of multi-agent systems with nonlinear output and directed topologies'', /Proceedings of the 38th Chinese Control Conference/, Guangzhou.
+. X. Shi, R. Zheng, *T. Yang*, Z. Lin and G. Yan, ``A distributed algorithm with event-triggered communication for resource allocation problem'', /Proceedings of 2019 American Control Conference/,  Philadelphia, PA. 
+. J. George and *T. Yang*, ``Fast distributed least-squares solver for linear time-varying equations'', /Proceedings of 2019 American Control Conference/,  Philadelphia, PA.  
 . W. Du, X. Yi, J. George, K. H. Johansson and *T. Yang*, ``Distributed optimization with dynamic event-triggered mechanisms'', /Proceedings of the 57th Conference on Decision and Control/, Miami, FL, 2018.
 . X. Yi, L. Yao, *T. Yang*, J. George and K. H. Johansson, ``Distributed optimization for second-order multi-agent systems with dynamic event-triggered communication'', /Proceedings of the 57th Conference on Decision and Control/, Miami, FL, 2018.
 . J. George, X. Yi and *T. Yang*, ``Distributed robust dynamic average consensus with dynamic event-triggered communication'', /Proceedings of the 57th Conference on Decision and Control/, Miami, FL, 2018.
