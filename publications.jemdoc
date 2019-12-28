@@ -41,7 +41,7 @@
 
 
 == Conference Papers
-. J. George, *T. Yang*, H Bai and P. Gurram ``Distributed stochastic gradient method for non-convex problems with applications in supervised learning", /Proceedings of the 58th Conference on Decision and Control/, Nice, France, 2019. To appear.
+. J. George, *T. Yang*, H Bai and P. Gurram ``Distributed stochastic gradient method for non-convex problems with applications in supervised learning", /Proceedings of the 58th Conference on Decision and Control/, Nice, France, 2019.
 . S. Zheng, X. Yi, J. George and *T. Yang*, ``Computational convergence analysis of distributed optimization
 algorithms for directed graphs'', /Proceedings of the 15th IEEE International Conference on Control and Automation/, Edinburgh, Scotland, 2019. 
 . X. Yi, S. Zheng, *T. Yang*, J. Wu and K. H. Johansson, ``Distributed online convex optimization with long term coupled
