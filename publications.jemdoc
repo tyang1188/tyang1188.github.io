@@ -6,7 +6,7 @@
 . X. Yi, S. Zhang, *T. Yang*, K.H. Johansson and T. Chai, ``[https://arxiv.org/pdf/1909.03282.pdf *Exponential convergence for distributed smooth optimization under the restricted secant inequality condition*]'',  submitted to IFAC 2020.
 
 == Journal Papers 
-. *T. Yang*, J. George, J. Qin, X. Yi and J. Wu, ``[https://arxiv.org/pdf/1810.00156.pdf *Distributed finite-time least squares solver for network linear equations*]'', Automatica, in press.
+. *T. Yang*, J. George, J. Qin, X. Yi and J. Wu, ``[https://arxiv.org/pdf/1810.00156.pdf *Distributed finite-time least squares solver for network linear equations*]'', /Automatica/, in press.
 . *T. Yang*, X. Yi, J. Wu, Y. Yuan, D. Wu, Z. Meng, Y. Hong, H. Wang, Z. Lin and K.H. Johansson, 
 ``[https://www.sciencedirect.com/science/article/pii/S1367578819300082/ *A survey of distributed optimization*]'', /Annual Reviews in Control/, vol. 47, pp. 278-305, 2019. 
 . *T. Yang*, D. Wu, H. Fang, W. Ren, H. Wang, Y. Hong and K.H. Johansson, ``[https://ieeexplore.ieee.org/document/8731737/ *Distributed optimal coordination for distributed energy resources over time-varying directed networks*]'', /IEEE Transactions on Control of Network Systems/, vol. 6, no. 3, pp. 1124-1134, 2019. 
