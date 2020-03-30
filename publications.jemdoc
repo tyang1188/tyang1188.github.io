@@ -44,11 +44,9 @@
 
 == Conference Papers
 
-. X. Yi, S. Zhang, *T. Yang*, K.H. Johansson and T. Chai, ``Exponential convergence for distributed smooth optimization under the restricted secant inequality condition'', /Proceedings of the 21st IFAC World Congress, Berlin, Germany, 2020, to appear. 
-[https://arxiv.org/pdf/1909.03282.pdf/*Extended Version*]
-
+. X. Yi, S. Zhang, *T. Yang*, K.H. Johansson and T. Chai, ``Exponential convergence for distributed smooth optimization under the restricted secant inequality condition'', /Proceedings of the 21st IFAC World Congress/, Berlin, Germany, 2020, to appear. 
+``[https://arxiv.org/pdf/1909.03282.pdf/ *Extended Version*]".
 . X. Yi, X. Li, *T. Yang*, L. Xie, K.H. Johansson and T. Chai, ``A Distributed Primal-Dual Algorithm for Bandit Online Convex Optimization with Time-Varying Coupled Inequality Constraints", /Proceedings of the 2020 American Control Conference/, Denver, CO, to appear.
-
 . J. George, *T. Yang*, H Bai and P. Gurram ``Distributed stochastic gradient method for non-convex problems with applications in supervised learning", /Proceedings of the 58th Conference on Decision and Control/, Nice, France, 2019.
 . S. Zheng, X. Yi, J. George and *T. Yang*, ``Computational convergence analysis of distributed optimization
 algorithms for directed graphs'', /Proceedings of the 15th IEEE International Conference on Control and Automation/, Edinburgh, Scotland, 2019. 
