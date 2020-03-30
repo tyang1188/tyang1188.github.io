@@ -3,7 +3,7 @@
 
 == Preprint 
 
-. X. Yi, S. Zhang, *T. Yang*, K.H. Johansson and T. Chai, ``[https://arxiv.org/pdf/1912.03719.pdf *Distributed bandit online convex optimization with time-varying coupled inequality constraints*]'', under review.
+. X. Yi, X. Li, *T. Yang*, L. Xie, K.H. Johansson and T. Chai, ``[https://arxiv.org/pdf/1912.03719.pdf *Distributed bandit online convex optimization with time-varying coupled inequality constraints*]'', under review.
 
 == Journal Papers 
 . *T. Yang* and T. Chai,``[http://engine.scichina.com/publisher/scp/journal/SST/doi/10.1360/SST-2020-0040?slug=abstract/ *分布式协同优化的研究现状与展望*]", /中国科学: 技术科学/, in press. 
@@ -44,7 +44,8 @@
 
 == Conference Papers
 
-. X. Yi, S. Zhang, *T. Yang*, K.H. Johansson and T. Chai, ``[https://arxiv.org/pdf/1909.03282.pdf *Exponential convergence for distributed smooth optimization under the restricted secant inequality condition*]'', /Proceedings of the 21st IFAC World Congress, Berlin, Germany, 2020, to appear. 
+. X. Yi, S. Zhang, *T. Yang*, K.H. Johansson and T. Chai, ``Exponential convergence for distributed smooth optimization under the restricted secant inequality condition'', /Proceedings of the 21st IFAC World Congress, Berlin, Germany, 2020, to appear. 
+[https://arxiv.org/pdf/1909.03282.pdf/*Extended Version*]
 
 . X. Yi, X. Li, *T. Yang*, L. Xie, K.H. Johansson and T. Chai, ``A Distributed Primal-Dual Algorithm for Bandit Online Convex Optimization with Time-Varying Coupled Inequality Constraints", /Proceedings of the 2020 American Control Conference/, Denver, CO, to appear.
 
