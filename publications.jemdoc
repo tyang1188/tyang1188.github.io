@@ -6,11 +6,13 @@
 . X. Yi, X. Li, *T. Yang*, L. Xie, K.H. Johansson and T. Chai, ``[https://arxiv.org/pdf/1912.03719.pdf *Distributed bandit online convex optimization with time-varying coupled inequality constraints*]'', under review.
 
 == Journal Papers 
+. F. Li, J. Qin, Y. Wan and *T. Yang*, ``[https://ieeexplore.ieee.org/document/9076716/ *Decentralized Cooperative Optimal Power Flow of Multiple Interconnected Microgrids via Negotiation*]", //IEEE Transactions on Smart Grid/, in press. 
 . R. Chen, *T. Yang* and T. Chai, ``[http://engine.scichina.com/doi/10.1007/s11431-020-1596-8/ *Distributed accelerated optimization algorithms: insights from an ODE*]", /SCIENCE CHINA Technological Sciences/, in press. 
 . *T. Yang* and T. Chai, ``[http://engine.scichina.com/publisher/scp/journal/SST/doi/10.1360/SST-2020-0040?slug=abstract/ *分布式协同优化的研究现状与展望*]", /中国科学: 技术科学/, in press. 
 . K. Zhao, X. Dai, P. Zhou and *T. Yang*,``[https://ieeexplore.ieee.org/document/9031558/ *Distributed robust event-triggered control strategy for multiple high-speed trains with communication delays and input constraints*]'', /IEEE Transactions on Control of Network Systems/, in press.
+. X. Shi, R. Zheng, Z. Lin, *T. Yang* and G. Yan,``[https://onlinelibrary.wiley.com/doi/abs/10.1002/asjc.2341/ *An exponentially convergent distributed algorithm for resource allocation problem*]'', /Asian Journal of Control/, in press.
 . Z. Ping, X. Li, W. He, *T. Yang* and Y. Yuan, ``[https://www.sciencedirect.com/science/article/pii/S0306261920300532/ *Sparse learning of network-reduced models for locating low frequency oscillations in power systems*]'', /Applied Energy/, vol. 262, no. 114541, 2020. 
-. *T. Yang*, J. George, J. Qin, X. Yi and J. Wu, ``[https://reader.elsevier.com/reader/sd/pii/S0005109819306612?token=7026DAF19C3E758C1B368A27BBDC75A11400ABD7C11ACF5865CCD021AB94FD3EF7DBAC7D22E3D386CB0A00F63E39B863/ *Distributed least squares solver for network linear equations*]'', /Automatica/, vol 113, no. 108798, 2020.
+. *T. Yang*, J. George, J. Qin, X. Yi and J. Wu, ``[https://www.sciencedirect.com/science/article/pii/S0005109819306612/ *Distributed least squares solver for network linear equations*]'', /Automatica/, vol 113, no. 108798, 2020.
 . *T. Yang*, X. Yi, J. Wu, Y. Yuan, D. Wu, Z. Meng, Y. Hong, H. Wang, Z. Lin and K.H. Johansson, 
 ``[https://www.sciencedirect.com/science/article/pii/S1367578819300082/ *A survey of distributed optimization*]'', /Annual Reviews in Control/, vol. 47, pp. 278-305, 2019. 
 . *T. Yang*, D. Wu, H. Fang, W. Ren, H. Wang, Y. Hong and K.H. Johansson, ``[https://ieeexplore.ieee.org/document/8731737/ *Distributed optimal coordination for distributed energy resources over time-varying directed networks*]'', /IEEE Transactions on Control of Network Systems/, vol. 6, no. 3, pp. 1124-1134, 2019. 
